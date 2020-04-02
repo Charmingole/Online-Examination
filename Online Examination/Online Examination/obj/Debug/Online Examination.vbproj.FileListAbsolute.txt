@@ -1,0 +1,13 @@
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\bin\Debug\Online Examination.exe.config
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\bin\Debug\Online Examination.exe
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\bin\Debug\Online Examination.pdb
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\bin\Debug\Online Examination.xml
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online Examination.vbprojAssemblyReference.cache
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online_Examination.Form1.resources
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online_Examination.Resources.resources
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online Examination.vbproj.GenerateResource.cache
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online Examination.exe
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online Examination.xml
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online Examination.pdb
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online_Examination.Form2.resources
+D:\Abhi programing projects\VisualStudioProjects\Online\Online Examination\Online Examination\obj\Debug\Online_Examination.Form3.resources
